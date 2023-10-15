@@ -1,0 +1,361 @@
+Loaded cogs.commands
+Loaded cogs.count
+Loaded cogs.events
+------
+2023-10-14 00:52:35: Logged in as: Chodebot
+------
+Unloaded commands
+Loaded commands
+Loaded cogs.commands
+Loaded cogs.count
+Loaded cogs.events
+------
+2023-10-14 00:56:15: Logged in as: Chodebot
+------
+Loaded cogs.commands
+Loaded cogs.count
+Loaded cogs.events
+------
+2023-10-14 00:56:58: Logged in as: Chodebot
+------
+Unloaded commands
+Loaded commands
+Loaded cogs.commands
+Loaded cogs.count
+Loaded cogs.events
+------
+2023-10-14 01:01:37: Logged in as: Chodebot
+------
+Loaded cogs.commands
+Loaded cogs.count
+Loaded cogs.events
+------
+2023-10-14 01:05:40: Logged in as: Chodebot
+------
+Unloaded events
+Loaded events
+2023-10-14 01:05:40: Failed to Load wordgame: ExtensionFailed: Extension 'cogs.wordgame' raised an error: AttributeError: module 'discord' has no attribute 'Cog'
+2023-10-14 01:05:40: Failed to Load wordgame: ExtensionFailed: Extension 'cogs.wordgame' raised an error: NameError: name 'commands' is not defined
+2023-10-14 01:05:40: Failed to Load wordgame: ExtensionFailed: Extension 'cogs.wordgame' raised an error: NameError: name 'commands' is not defined
+2023-10-14 01:05:40: Failed to Load wordgame: ExtensionFailed: Extension 'cogs.wordgame' raised an error: NameError: name 'commands' is not defined
+2023-10-14 01:05:40: Failed to Load wordgame: ExtensionFailed: Extension 'cogs.wordgame' raised an error: NameError: name 'commands' is not defined
+2023-10-14 01:05:40: Failed to Load wordgame: ExtensionFailed: Extension 'cogs.wordgame' raised an error: NameError: name 'commands' is not defined
+2023-10-14 01:05:40: Failed to Load wordgame: ExtensionFailed: Extension 'cogs.wordgame' raised an error: NameError: name 'commands' is not defined
+2023-10-14 01:05:40: Failed to Load wordgame: ExtensionFailed: Extension 'cogs.wordgame' raised an error: NameError: name 'commands' is not defined
+2023-10-14 01:05:40: Failed to Load wordgame: ExtensionFailed: Extension 'cogs.wordgame' raised an error: NameError: name 'bot' is not defined
+2023-10-14 01:05:40: Failed to Load wordgame: ExtensionFailed: Extension 'cogs.wordgame' raised an error: NameError: name 'bot' is not defined
+Loaded cogs.commands
+Loaded cogs.count
+Loaded cogs.events
+------
+2023-10-14 02:49:56: Logged in as: Chodebot
+------
+2023-10-14 02:49:56: Failed to Load wordgame: ExtensionFailed: Extension 'cogs.wordgame' raised an error: NameError: name 'bot' is not defined
+2023-10-14 02:49:56: Failed to Load wordgame: ExtensionFailed: Extension 'cogs.wordgame' raised an error: NameError: name 'bot' is not defined
+2023-10-14 02:49:56: Failed to Load wordgame: ExtensionFailed: Extension 'cogs.wordgame' raised an error: NameError: name 'bot' is not defined
+2023-10-14 02:49:56: Failed to Load wordgame: ExtensionFailed: Extension 'cogs.wordgame' raised an error: NameError: name 'bot' is not defined
+Unloaded count
+Unloaded events
+Unloaded commands
+2023-10-14 02:49:56: Failed to Load wordgame: ExtensionFailed: Extension 'cogs.wordgame' raised an error: NameError: name 'bot' is not defined
+2023-10-14 02:49:56: Failed to Load cogs.wordgame: ModuleNotFoundError: No module named 'cogs.cogs'
+Loaded cogs.commands
+Loaded cogs.count
+Loaded cogs.events
+------
+2023-10-14 03:05:29: Logged in as: Chodebot
+------
+2023-10-14 03:05:29: Failed to Load cogs.wordgame: ModuleNotFoundError: No module named 'cogs.cogs'
+2023-10-14 03:05:29: Failed to Load wordgame: ExtensionFailed: Extension 'cogs.wordgame' raised an error: AttributeError: module 'discord' has no attribute 'Cog'
+2023-10-14 03:05:29: Failed to Load wordgame: ExtensionFailed: Extension 'cogs.wordgame' raised an error: NameError: name 'bot' is not defined
+2023-10-14 03:05:29: Failed to Load wordgame: ExtensionFailed: Extension 'cogs.wordgame' raised an error: TypeError: Command signature requires at least 1 parameter(s)
+2023-10-14 03:05:29: Failed to Load wordgame: ExtensionFailed: Extension 'cogs.wordgame' raised an error: NameError: name 'ctx' is not defined
+2023-10-14 03:05:29: Failed to Load wordgame: ExtensionFailed: Extension 'cogs.wordgame' raised an error: TypeError: Command signature requires at least 1 parameter(s)
+2023-10-14 03:05:29: Failed to Load wordgame: ExtensionFailed: Extension 'cogs.wordgame' raised an error: NameError: name 'check' is not defined
+2023-10-14 03:05:29: Failed to Load wordgame: ExtensionFailed: Extension 'cogs.wordgame' raised an error: ImportError: cannot import name 'check' from 'discord.ext' (unknown location)
+2023-10-14 03:05:29: Failed to Load wordgame: ExtensionFailed: Extension 'cogs.wordgame' raised an error: AttributeError: 'function' object has no attribute 'is_admin'
+Loaded wordgame
+Loaded cogs.commands
+Loaded cogs.count
+Loaded cogs.events
+------
+2023-10-14 04:03:23: Logged in as: Chodebot
+------
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+2023-10-14 04:03:23: Failed to load wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded cogs.commands
+Loaded cogs.count
+Loaded cogs.events
+------
+2023-10-14 05:33:12: Logged in as: Chodebot
+------
+Loaded cogs.commands
+Loaded cogs.count
+Loaded cogs.events
+------
+2023-10-14 14:12:26: Logged in as: Chodebot
+------
+Loaded cogs.commands
+Loaded cogs.count
+Loaded cogs.events
+------
+2023-10-14 14:25:33: Logged in as: Chodebot
+------
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Loaded cogs.commands
+Loaded cogs.count
+Loaded cogs.events
+------
+2023-10-14 15:45:48: Logged in as: Chodebot
+------
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Loaded cogs.commands
+Loaded cogs.count
+Loaded cogs.events
+------
+2023-10-14 16:39:36: Logged in as: Chodebot
+------
+2023-10-14 16:39:36: Failed to unload wordgame: ExtensionNotLoaded: Extension 'cogs.wordgame' has not been loaded.
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Loaded cogs.commands
+Loaded cogs.count
+Loaded cogs.events
+------
+2023-10-14 18:27:18: Logged in as: Chodebot
+------
+Loaded cogs.commands
+Loaded cogs.count
+Loaded cogs.events
+------
+2023-10-14 18:29:01: Logged in as: Chodebot
+------
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+2023-10-14 18:29:01: Failed to unload wordgame: ExtensionNotLoaded: Extension 'cogs.wordgame' has not been loaded.
+2023-10-14 18:29:01: Failed to unload wordgame: ExtensionNotLoaded: Extension 'cogs.wordgame' has not been loaded.
+Loaded wordgame
+Unloaded wordgame
+2023-10-14 18:29:01: Failed to unload wordgame: ExtensionNotLoaded: Extension 'cogs.wordgame' has not been loaded.
+Loaded wordgame
+Unloaded wordgame
+2023-10-14 18:29:01: Failed to unload wordgame: ExtensionNotLoaded: Extension 'cogs.wordgame' has not been loaded.
+Loaded wordgame
+Unloaded wordgame
+2023-10-14 18:29:01: Failed to unload wordgame: ExtensionNotLoaded: Extension 'cogs.wordgame' has not been loaded.
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+2023-10-14 18:29:01: Failed to unload wordgame: ExtensionNotLoaded: Extension 'cogs.wordgame' has not been loaded.
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+Loaded wordgame
+Unloaded wordgame
+2023-10-14 18:29:01: Failed to unload wordgame: ExtensionNotLoaded: Extension 'cogs.wordgame' has not been loaded.
+Loaded wordgame
+Unloaded wordgame
+2023-10-14 18:29:01: Failed to unload wordgame: ExtensionNotLoaded: Extension 'cogs.wordgame' has not been loaded.
+Loaded cogs.commands
+Loaded cogs.count
+Loaded cogs.events
+------
+2023-10-14 19:33:52: Logged in as: Chodebot
+------
+Loaded wordgame
+Unloaded wordgame
+2023-10-14 19:33:52: Failed to unload wordgame: ExtensionNotLoaded: Extension 'cogs.wordgame' has not been loaded.
+Loaded wordgame
+Unloaded wordgame
+2023-10-14 19:33:52: Failed to unload wordgame: ExtensionNotLoaded: Extension 'cogs.wordgame' has not been loaded.
+Loaded wordgame
+Unloaded wordgame
+Loaded cogs.commands
+Loaded cogs.count
+Loaded cogs.events
+------
+2023-10-14 19:40:09: Logged in as: Chodebot
+------
+Loaded wordgame
+Loaded cogs.commands
+Loaded cogs.count
+Loaded cogs.events
+------
+2023-10-14 20:00:00: Logged in as: Chodebot
+------
+Loaded newwordgame
+Loaded cogs.commands
+Loaded cogs.count
+Loaded cogs.events
+------
+2023-10-14 20:29:01: Logged in as: Chodebot
+------
+Loaded newwordgame
+Unloaded newwordgame
+Loaded newwordgame
+Unloaded newwordgame
+Loaded newwordgame
+Loaded cogs.commands
+Loaded cogs.count
+Loaded cogs.events
+------
+2023-10-14 20:46:16: Logged in as: Chodebot
+------
+Loaded newwordgame
+Unloaded newwordgame
+Loaded newwordgame
+Unloaded commands
+Unloaded count
+Unloaded events
+Unloaded newwordgame
+Loaded newwordgame
